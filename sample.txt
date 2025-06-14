@@ -1,1 +1,11 @@
 Hi there i am vijayaprabakaran this is my first time in git
+This may be the new line of code
+to checkout the commands
+git add .\  \
+git commit -m " "
+git push
+git pull
+git diff
+git status
+git branch 
+git checkout
